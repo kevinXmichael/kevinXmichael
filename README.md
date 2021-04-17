@@ -1,8 +1,7 @@
 ## Kevin Michael Schott
 
 👔 &nbsp; CEO and founder of metab<br>
-⚙️ &nbsp; I prefer Firebase, Vue, Quasar<br>
-⚡ &nbsp; As well as JavaScript and Python<br>
+⚙️ &nbsp; I prefer Firebase, Vue, JavaScript, Python<br>
 🍀 &nbsp; And like Dogs, Mangas, Movies, Sports<br>
 🗣 &nbsp; Pronouns: He/Him/His
 
