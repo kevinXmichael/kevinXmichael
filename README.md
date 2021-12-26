@@ -1,7 +1,7 @@
 ## Kevin Michael Schott
 
 👔 &nbsp; CEO and founder of metab<br>
-⚙️ &nbsp; Prefers Firebase, Vue, JavaScript<br>
+⚙️ &nbsp; Prefers Firebase, Vue, Svelte and JavaScript in general<br>
 🍀 &nbsp; And likes Dogs, Mangas, Movies, Sports<br>
 <br>
 [![](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@metab.rocks)<br>
