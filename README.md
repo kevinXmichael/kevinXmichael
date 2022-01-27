@@ -2,7 +2,7 @@
 
 ☀️ &nbsp; Hey I am Kevin - web developer and founder of a startup based in Germany
 
-🍀 &nbsp; Although I'm a nerd, I still have hobbies: Dogs, Mangas, Movies and Sports<br>
+🍀 &nbsp; I'm a nerd who still has hobbies #kappa: dogs, manga, movies and sports<br>
 
 🛠 &nbsp; Here you find things that I like and prefer:<br><br>
 
