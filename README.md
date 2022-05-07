@@ -1,6 +1,6 @@
 # Kevin Michael Schott
 
-☀️ &nbsp; Hey I am Kevin - developer and founder of a startup based in Germany
+☀️ &nbsp; Hey I am Kevin - freelance software developer from Germany
 
 🍀 &nbsp; I'm a nerd who still has hobbies #kappa: dogs, manga, movies and sports<br>
 
