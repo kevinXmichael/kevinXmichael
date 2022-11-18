@@ -8,11 +8,11 @@
 
 👉 https://www.kms695.de/
 
-💅 React, Vue, Svelte, Alpine, Tailwind, Sass
+💅 Svelte, Vue, React, Alpine, Tailwind, SASS
 
-🛠️ Firebase, Prisma, REST, GraphQL
+🛠️ GraphQL, REST, Firebase
 
-🚀 Flutter, Swift, Python
+🚀 Flutter, Swift, Kotlin, Python
 
 <br>
 
