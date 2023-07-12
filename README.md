@@ -8,9 +8,9 @@
 
 👉 https://www.kms695.de/
 
-💅 Frontend: Svelte, Vue, React, Alpine, Tailwind and SASS
+💅 Frontend: Svelte, React, Vue, Alpine, Tailwind and SASS
 
-🛠️ Backend: Java/Kotlin, Python, REST and GraphQL
+🛠️ Backend: Java/Kotlin, Python, Laravel, Node.js, REST and GraphQL
 
 🚀 Databases: PostgreSQL, MySQL, SQLite, MongoDB
 
