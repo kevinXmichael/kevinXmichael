@@ -1,6 +1,6 @@
 # 👋 Kevin Michael Schott
 
-🧑‍💻 Freelance Full-stack developer with 9+ years experience
+🧑‍💻 Freelance Full Stack Developer with 9+ years experience
 
 🌍 Remote, agile, async work
 
