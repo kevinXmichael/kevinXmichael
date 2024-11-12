@@ -1,18 +1,12 @@
 # 👋 Kevin Michael Schott
 
-🧑‍💻 Freelance Full Stack Developer with 9+ years experience
-
-🌍 Remote, agile, async work
+🧑‍💻 Freelancer in IT
 
 🇩🇪 Based in Germany
 
+🌍 Remote, agile, async work
+
 👉 https://www.kms695.de/
-
-💅 Frontend: Svelte, React, Vue, Alpine, Tailwind and SASS
-
-🛠️ Backend: Java/Kotlin, Python, Laravel, Node.js, REST and GraphQL
-
-🚀 Databases: PostgreSQL, MySQL, SQLite, MongoDB
 
 <br>
 
