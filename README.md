@@ -1,12 +1,12 @@
 # 👋 Kevin Michael Schott
 
-🧑‍💻 Freelancer in IT
+🧑‍💻 SAP
 
 🇩🇪 Based in Germany
 
-🌍 Remote, agile, async work
+🌍 [Website](https://www.kms695.de)
 
-👉 https://www.kms695.de/
+👉 [LinkedIn](https://www.linkedin.com/in/kmschott)
 
 <br>
 
