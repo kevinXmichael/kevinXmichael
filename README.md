@@ -1,7 +1,5 @@
 # 👋 Kevin Michael Schott
 
-🧑‍💻 SAP
-
 🇩🇪 Based in Germany
 
 🌍 [Website](https://www.kms695.de)
