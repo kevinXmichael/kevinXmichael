@@ -2,8 +2,6 @@
 
 🇩🇪 Based in Germany
 
-🌍 [Website](https://www.kms695.de)
-
 👉 [LinkedIn](https://www.linkedin.com/in/kmschott)
 
 <br>
